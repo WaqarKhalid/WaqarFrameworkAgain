@@ -1,0 +1,6 @@
+framework module Pods_WaqarFrameworkAgain {
+  umbrella header "Pods-WaqarFrameworkAgain-umbrella.h"
+
+  export *
+  module * { export * }
+}
