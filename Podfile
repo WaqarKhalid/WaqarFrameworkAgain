@@ -7,4 +7,6 @@ target 'WaqarFrameworkAgain' do
 
   # Pods for WaqarFrameworkAgain
 	pod 'SDWebImage'
+  
+  
 end
